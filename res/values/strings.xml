@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpeechTranslator</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_translation">Translation</string>
+    <string name="title_activity_languages_list">languages_list</string>
+    <string name="rating">Rate us</string>
+    <string name="opinion_matters">your opinion matters</string>
+    <string name="send_feedback">Send Feedback:</string>
+    <string name="language_not_supported">Language is not currently supported</string>
+</resources>

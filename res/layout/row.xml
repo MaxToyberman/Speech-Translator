@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/cell_shape"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/spinnerTextView"
+            android:layout_width="wrap_content"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/spinnerSoundImage"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+
+            android:contentDescription="@string/app_name" />"
+
+    </TableRow>
+
+</TableLayout>

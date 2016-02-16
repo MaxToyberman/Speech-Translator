@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="speech_prompt">Скажите что-нибудь&#8230;</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="title_activity_languages_list">список_языков</string>
+    <string name="title_activity_history">История</string>
+    <string name="title_activity_translation">Перевод</string>
+    <string name="action_settings">Настройки</string>
+    <string name="rating">Оцените нас</string>
+    <string name="opinion_matters">Ваше мнение важно</string>
+    <string name="send_feedback">Отправить отзыв:</string>
+    <string name="language_not_supported">Язык не поддерживается</string>
+</resources>
